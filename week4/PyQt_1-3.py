@@ -98,3 +98,4 @@ cnt = 0
 loop = QApplication(sys.argv)
 lotto_program = Lotto()
 loop.exec_()
+
