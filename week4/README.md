@@ -56,7 +56,7 @@ $ pip install dnspython
 ```python
 from pymongo import MongoClient
 
-client = MongoClient("mongodb+srv://jjunh33:aofhs31@cluster0.iwc5u.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://<아이디>:<비밀번호>@cluster0.iwc5u.mongodb.net/?retryWrites=true&w=majority")
 
 db = client['test'] # test라는 이름의 데이터베이스에 접속
 
