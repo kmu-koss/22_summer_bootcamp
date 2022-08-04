@@ -10,8 +10,6 @@
     <td align="center"><a href="https://github.com/Kim-Jiyun"><img src="https://avatars.githubusercontent.com/u/84488029?v=4" width="100px;" alt=""/><br /><sub><b>김지윤</b></sub></a><br /><a href="https://github.com/Kim-Jiyun" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/hummingbbird"><img src="https://avatars.githubusercontent.com/u/84303489?v=4" width="100px;" alt=""/><br /><sub><b>이채영</b></sub></a><br /><a href="https://github.com/hummingbbird" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/hayounSong"><img src="https://avatars.githubusercontent.com/u/39684920?v=4" width="100px;" alt=""/><br /><sub><b>송하윤</b></sub></a><br /><a href="https://github.com/hayounSong" title="Code">💻</a></td>
-  </tr>
-    <tr>
     <td align="center"><a href="https://github.com/mrgentle1"><img src="https://avatars.githubusercontent.com/u/59019322?v=4" width="100px;" alt=""/><br /><sub><b>김준영</b></sub></a><br /><a href="https://github.com/mrgentle1" title="Code">💻</a></td>
      <td align="center"><a href="https://github.com/jjunh33"><img src="https://avatars.githubusercontent.com/u/57091983?v=4" width="100px;" alt=""/><br /><sub><b>이준혁</b></sub></a><br /><a href="https://github.com/jjunh33" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/ymw0407"><img src="https://avatars.githubusercontent.com/u/77202633?v=4" width="100px;" alt=""/><br /><sub><b>윤민우</b></sub></a><br /><a href="https://github.com/ymw0407" title="Code">💻</a></td>
