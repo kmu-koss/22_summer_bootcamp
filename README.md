@@ -24,27 +24,33 @@
 
 스터디는 총 7주 과정으로 진행됩니다.
 
-### 1주차
+### 1주차: HTML, CSS, JS
 
-### 2주차
+### 2주차: Node.js, Express.js 
 
-### 3주차
+### 3주차: 아두이노, 라즈베리파이
+[바로가기](https://github.com/kmu-koss/22_summer_bootcamp/tree/main/week3)
+### 4주차: PyQT
+[바로가기](https://github.com/kmu-koss/22_summer_bootcamp/tree/main/week4)
 
-### 4주차
+### 5주차: 안드로이드
 
-### 5주차
+### 6주차: AD프로젝트(I)
 
-### 6주차
+### 7주차: AD프로젝트(II)
 
-### 7주차
-
+### 특강: AWS IoT core
+연사 : 국민대학교 소프트웨어융합대학 허대영 교수님
+- 8월 4일(목) 특강
+- 8월 10일(수) 특강
+- 8월 17일(수) 특강
 
 ## :pencil2: 과제 수행 ##
 
 ### 3주차
-
+[3주차 과제 : 미세먼지 데이터 웹 페이지로 조회하기](https://github.com/kmu-koss/22_summer_bootcamp/issues/1)
 ### 4주차
-
+[4주차 과제 : PyQT5를 이용해 실내 미세먼지 데이터 시각화하기](https://github.com/kmu-koss/22_summer_bootcamp/issues/2)
 |  이름  |          3주차          | 4주차 |
 | :----: | :---------------------: | :---: |
 | 김성혁 ||       |
