@@ -47,15 +47,15 @@
 
 ### 3주차
 [3주차 과제 : 미세먼지 데이터 웹 페이지로 조회하기](https://github.com/kmu-koss/22_summer_bootcamp/issues/1)
+![](https://user-images.githubusercontent.com/105336318/184537121-19a65744-b8cf-4919-b307-eea7a996a48a.gif)
 ### 4주차
 [4주차 과제 : PyQT5를 이용해 실내 미세먼지 데이터 시각화하기](https://github.com/kmu-koss/22_summer_bootcamp/issues/2)
+![](https://user-images.githubusercontent.com/105336318/184537270-fb091575-8628-4bee-a0b0-c009c729dee8.gif)
 |  이름  |          3주차          | 4주차 |
 | :----: | :---------------------: | :---: |
-| 김우현 ||       |
-| 배진우 ||       |
-| 이상현 ||       |
-| 이서준 ||       |
-| 이지희 ||       |
-| 최선우 ||       |
-| 남궁희 ||       |
-| 하은영 ||       |
+| 김우현 |✅|   ✅    |
+| 배진우 |✅|    ✅   |
+| 이상현 |✅|    ✅   |
+| 최선우 |✅|   ✅    |
+| 남궁희 |✅|    ✅   |
+| 하은영 |✅|  ✅     |
