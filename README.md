@@ -42,72 +42,114 @@
 ### 1주차
 |  이름  | 07/04 | 07/05 | 07/06 | 07/07 |
 | :----: | :---: | :---: | :---: | :---: |
-| 김성혁 ||       |||
-| 김우현 ||       |||
-| 배진우 ||       |||
-| 이상현 ||       |||
-| 이서준 ||       |||
-| 이지희 ||       |||
-| 최선우 ||       |||
-| 남궁희 ||       |||
-| 이민서 ||       |||
-| 하은영 ||       |||
+| 김성혁 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 김우현 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 김혜은 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 남궁희 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 배진우 |:ballot_box_with_check:|🤒|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이상현 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이서준 |:ballot_box_with_check:|:ballot_box_with_check:|🤒|:ballot_box_with_check:|
+| 이지희 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 최선우 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 강서영 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이민서 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 하은영 |🤒|🤒|🤒|🤒|
 
 ### 2주차
 |  이름  | 07/11 | 07/12 | 07/13 | 07/14 |
 | :----: | :---: | :---: | :---: | :---: |
-| 김성혁 ||       |||
-| 김우현 ||       |||
-| 배진우 ||       |||
-| 이상현 ||       |||
-| 이서준 ||       |||
-| 이지희 ||       |||
-| 최선우 ||       |||
-| 남궁희 ||       |||
-| 이민서 ||       |||
-| 하은영 ||       |||
+| 김성혁 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 김우현 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 김혜은 |:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|
+| 남궁희 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 배진우 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이상현 |:ballot_box_with_check:|🤒|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이서준 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이지희 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 최선우 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 강서영 |:ballot_box_with_check:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|
+| 이민서 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 하은영 |🤒|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
 
 ### 3주차
 |  이름  | 07/18 | 07/19 | 07/20 | 07/21 |
 | :----: | :---: | :---: | :---: | :---: |
-| 김성혁 ||       |||
-| 김우현 ||       |||
-| 배진우 ||       |||
-| 이상현 ||       |||
-| 이서준 ||       |||
-| 이지희 ||       |||
-| 최선우 ||       |||
-| 남궁희 ||       |||
-| 이민서 ||       |||
-| 하은영 ||       |||
+| 김성혁 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 김우현 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 김혜은 |:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|
+| 배진우 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 남궁희 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이상현 |🤒|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이서준 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이지희 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 최선우 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 강서영 |:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|
+| 이민서 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 하은영 |🤒|🤒|🤒|🤒|
 
 ### 5주차
 |  이름  | 08/01 | 08/02 | 08/03 |
 | :----: | :---: | :---: | :---: |
-| 김성혁 ||       ||
-| 김우현 ||       ||
-| 배진우 ||       ||
-| 이상현 ||       ||
-| 이서준 ||       ||
-| 이지희 ||       ||
-| 최선우 ||       ||
-| 남궁희 ||       ||
-| 이민서 ||       ||
-| 하은영 ||       ||
+| 김성혁 |🤒|🤒|🤒|
+| 김우현 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 김혜은 |:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|
+| 남궁희 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 배진우 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이상현 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이서준 |🤒|🤒|🤒|
+| 이지희 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 최선우 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 강서영 |:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|
+| 이민서 |:ballot_box_with_check:|🤒|:ballot_box_with_check:|
+| 하은영 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
 
 ### 6주차
 |  이름  | 08/08 | 08/09 | 08/11 |
 | :----: | :---: | :---: | :---: |
-| 김성혁 ||       ||
-| 김우현 ||       ||
-| 배진우 ||       ||
-| 이상현 ||       ||
-| 이서준 ||       ||
-| 이지희 ||       ||
-| 최선우 ||       ||
-| 남궁희 ||       ||
-| 이민서 ||       ||
-| 하은영 ||       ||
+| 김성혁 |:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|
+| 김우현 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 김혜은 |:negative_squared_cross_mark:|:negative_squared_cross_mark:|:ballot_box_with_check:|
+| 남궁희 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 배진우 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이상현 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 이서준 |🤒|🤒|:negative_squared_cross_mark:|
+| 이지희 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
+| 최선우 |🤒|🤒|:ballot_box_with_check:|
+| 강서영 |:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|
+| 이민서 |:negative_squared_cross_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|
+| 하은영 |🤒|:ballot_box_with_check:|🤒|
+
+### 7주차
+|  이름  | 08/16 | 08/17 |
+| :----: | :---: | :---: |
+| 김성혁 |:negative_squared_cross_mark:||
+| 김우현 |:ballot_box_with_check:||
+| 김혜은 |:negative_squared_cross_mark:||
+| 남궁희 |:ballot_box_with_check:||
+| 배진우 |:ballot_box_with_check:||
+| 이상현 |:ballot_box_with_check:||
+| 이서준 |:negative_squared_cross_mark:||
+| 이지희 |:negative_squared_cross_mark:||
+| 최선우 |:ballot_box_with_check:||
+| 강서영 |:negative_squared_cross_mark:||
+| 이민서 |:negative_squared_cross_mark:||
+| 하은영 |:ballot_box_with_check:||
+
+### 8주차
+|  이름  | 08/22 | 08/23 | 08/24 | 08/25 |
+| :----: | :---: | :---: | :---: | :---: |
+| 김성혁 ||||||
+| 김우현 ||||||
+| 김혜은 ||||||
+| 남궁희 ||||||
+| 배진우 ||||||
+| 이상현 ||||||
+| 이서준 ||||||
+| 이지희 ||||||
+| 최선우 ||||||
+| 강서영 ||||||
+| 이민서 ||||||
+| 하은영 ||||||
 
 
 ## :pencil2: 과제 수행 ##
