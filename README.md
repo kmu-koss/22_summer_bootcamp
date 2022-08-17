@@ -55,7 +55,7 @@
 | :----: | :---------------------: | :---: |
 | 김우현 |✅|   ✅    |
 | 배진우 |✅|    ✅   |
-| 이상현 |![](https://user-images.githubusercontent.com/105336318/184537121-19a65744-b8cf-4919-b307-eea7a996a48a.gif)|  ![](https://user-images.githubusercontent.com/105336318/184537270-fb091575-8628-4bee-a0b0-c009c729dee8.gif)     |
+| 이상현 |✅|    ✅   |
 | 최선우 |✅|   ✅    |
-| 남궁희 |![](https://user-images.githubusercontent.com/104904309/183556642-15e2c144-60a8-4d2f-bdc6-9d4cab58396c.mp4)| ✅      |
+| 남궁희 |✅|    ✅   |
 | 하은영 |✅|  ✅     |
