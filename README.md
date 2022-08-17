@@ -10,8 +10,6 @@
     <td align="center"><a href="https://github.com/Kim-Jiyun"><img src="https://avatars.githubusercontent.com/u/84488029?v=4" width="100px;" alt=""/><br /><sub><b>김지윤</b></sub></a><br /><a href="https://github.com/Kim-Jiyun" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/hummingbbird"><img src="https://avatars.githubusercontent.com/u/84303489?v=4" width="100px;" alt=""/><br /><sub><b>이채영</b></sub></a><br /><a href="https://github.com/hummingbbird" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/hayounSong"><img src="https://avatars.githubusercontent.com/u/39684920?v=4" width="100px;" alt=""/><br /><sub><b>송하윤</b></sub></a><br /><a href="https://github.com/hayounSong" title="Code">💻</a></td>
-  </tr>
-    <tr>
     <td align="center"><a href="https://github.com/mrgentle1"><img src="https://avatars.githubusercontent.com/u/59019322?v=4" width="100px;" alt=""/><br /><sub><b>김준영</b></sub></a><br /><a href="https://github.com/mrgentle1" title="Code">💻</a></td>
      <td align="center"><a href="https://github.com/jjunh33"><img src="https://avatars.githubusercontent.com/u/57091983?v=4" width="100px;" alt=""/><br /><sub><b>이준혁</b></sub></a><br /><a href="https://github.com/jjunh33" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/ymw0407"><img src="https://avatars.githubusercontent.com/u/77202633?v=4" width="100px;" alt=""/><br /><sub><b>윤민우</b></sub></a><br /><a href="https://github.com/ymw0407" title="Code">💻</a></td>
@@ -24,19 +22,26 @@
 
 스터디는 총 7주 과정으로 진행됩니다.
 
-### 1주차
+### 1주차: HTML, CSS, JS
 
-### 2주차
+### 2주차: Node.js, Express.js 
 
-### 3주차
+### 3주차: 아두이노, 라즈베리파이
+[바로가기](https://github.com/kmu-koss/22_summer_bootcamp/tree/main/week3)
+### 4주차: PyQT
+[바로가기](https://github.com/kmu-koss/22_summer_bootcamp/tree/main/week4)
 
-### 4주차
+### 5주차: 안드로이드
 
-### 5주차
+### 6주차: AD프로젝트(I)
 
-### 6주차
+### 7주차: AD프로젝트(II)
 
-### 7주차
+### 특강: AWS
+연사 : 국민대학교 소프트웨어융합대학 허대영 교수님
+- 8월 4일(목) 특강
+- 8월 10일(수) 특강
+- 8월 17일(수) 특강
 
 ## :alarm_clock: 출석 확인
 ### 1주차
@@ -155,18 +160,16 @@
 ## :pencil2: 과제 수행 ##
 
 ### 3주차
-
+[3주차 과제 : 미세먼지 데이터 웹 페이지로 조회하기](https://github.com/kmu-koss/22_summer_bootcamp/issues/1)
+![](https://user-images.githubusercontent.com/105336318/184537121-19a65744-b8cf-4919-b307-eea7a996a48a.gif)
 ### 4주차
-
+[4주차 과제 : PyQT5를 이용해 실내 미세먼지 데이터 시각화하기](https://github.com/kmu-koss/22_summer_bootcamp/issues/2)
+![](https://user-images.githubusercontent.com/105336318/184537270-fb091575-8628-4bee-a0b0-c009c729dee8.gif)
 |  이름  |          3주차          | 4주차 |
 | :----: | :---------------------: | :---: |
-| 김성혁 ||       |
-| 김우현 ||       |
-| 배진우 ||       |
-| 이상현 ||       |
-| 이서준 ||       |
-| 이지희 ||       |
-| 최선우 ||       |
-| 남궁희 ||       |
-| 이민서 ||       |
-| 하은영 ||       |
+| 김우현 |✅|   ✅    |
+| 배진우 |✅|    ✅   |
+| 이상현 |✅|    ✅   |
+| 최선우 |✅|   ✅    |
+| 남궁희 |✅|    ✅   |
+| 하은영 |✅|  ✅     |

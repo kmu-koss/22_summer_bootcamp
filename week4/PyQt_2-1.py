@@ -22,7 +22,7 @@ class Form(QWidget):
         self.Chbox = QHBoxLayout()
 
         self.setLayout(self.hbox)
-        self.show()
+
         self.initUI()
 
     def initUI(self):
@@ -58,5 +58,7 @@ class Form(QWidget):
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     form = Form()
-    # form.show()
+    form.show()
     exit(app.exec_())
+
+    
