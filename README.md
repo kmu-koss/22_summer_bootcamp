@@ -110,12 +110,12 @@
 ### 7 - 8주차
 |  이름  | 08/16 | 08/17 | 08/18 | 08/25 |
 | :----: | :---: | :---: |:---: |:---: |
-| 김우현 |:ballot_box_with_check:|:ballot_box_with_check:|||
-| 남궁희 |:ballot_box_with_check:|:ballot_box_with_check:|||
-| 배진우 |:ballot_box_with_check:|:ballot_box_with_check:|||
-| 이상현 |:ballot_box_with_check:|:ballot_box_with_check:|||
-| 최선우 |:ballot_box_with_check:|:ballot_box_with_check:|||
-| 하은영 |:ballot_box_with_check:|:ballot_box_with_check:|||
+| 김우현 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:||
+| 남궁희 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:||
+| 배진우 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:||
+| 이상현 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:||
+| 최선우 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:||
+| 하은영 |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:||
 
 
 ## :pencil2: 과제 수행 ##
