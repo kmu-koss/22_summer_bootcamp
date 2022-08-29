@@ -41,11 +41,9 @@
 | OB | 배진우(22),이상현(22),하은영(21)|
 |YB| 김우현(22),남궁희(22),최선우(22)|
 - 8월 18일(목). 아이디어 발표
-
-| 팀명 | 주제 |
-| :----: | :---: |
-| OB | |
-|YB| |
+- 8월 25일(목). 최종 발표
+#### OB팀 AD프로젝트 결과물 : 식물 관리 시스템
+[![](https://user-images.githubusercontent.com/104901660/187077887-34c47083-e50e-4d91-b90e-3826ad4d5940.png)](https://github.com/nnyouung/plantManagementSystem)
 
 
 - 8월 25일(목). 최종 발표
